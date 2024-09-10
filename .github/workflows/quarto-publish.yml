@@ -4,11 +4,11 @@ on:
     branches: [main, master]
   # pull_request:
   #   branches: [main, master]
-  # schedule:
-  #   # 4a EDT (in UTC) for waiver run
-  #   - cron: '0 8 * 9-12,1-2 0-6'
-  #   # 12p EDT TUE for week final scores
-  #   - cron: '0 16 * 9-12,1-2 2'
+  schedule:
+    # 4a EDT (in UTC) for waiver run
+    - cron: '0 8 * 9-12,1-2 0-6'
+    # 12p EDT TUE for week final scores
+    - cron: '0 16 * 9-12,1-2 2'
 
 name: Quarto Publish
 
