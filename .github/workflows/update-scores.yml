@@ -11,6 +11,10 @@ on:
     
 name: Update Scores
 
+permissions:
+    contents: write
+    pages: write
+
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
