@@ -18,7 +18,7 @@ df_franchises <- purrr::map(lts_conn, ~ ffscrapr::ff_franchises(.x)) %>%
   dplyr::bind_rows(.id = "league")
 
 # current week
-this_week <- difftime(lubridate::now(), lubridate::ymd("2023-09-04"), units = "weeks") %>% ceiling() %>% as.integer()
+this_week <- difftime(lubridate::now(), lubridate::ymd("2024-09-04"), units = "weeks") %>% ceiling() %>% as.integer()
 
 # get rosters for each week and team
 df_rosters <- purrr::map(1:this_week, ~ purrr::map(lts_conn, ~ ffscrapr::ff_rosters(.x, .y), .y=.x)) %>% 
