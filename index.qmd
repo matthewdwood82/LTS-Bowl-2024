@@ -1,9 +1,13 @@
 ---
-title: "LTS Bowl 2024"
+title: ""
 # author: "Matt Wood"
-format: html
+format: 
+  html:
+    smooth-scroll: true
+    embed-resources: true
 page-layout: full
 toc: true
+toc-title: "![](/images/BOWL2024.png)"
 toc-depth: 4
 toc-expand: 1
 toc-location: left
@@ -13,6 +17,7 @@ execute:
   echo: false
   warning: false
 ---
+
 
 ```{r dependencies}
 
@@ -35,10 +40,12 @@ library(DT)
 source("R/get_conn.R")
 ```
 
+::: {.card}
+
 **Updated: `r toupper(format(lubridate::with_tz(Sys.time(), tzone="America/New_York"), "%a %Y-%m-%d %H:%M:%S %Z"))`**
 
 **NOTE: Results are final for Week `r as.numeric(readr::read_lines("dat/update_week.txt"))`.**
-
+:::
 ## Intro
 
 Welcome to the scoring and transaction site for the Living the Stream Bowl 2024!
