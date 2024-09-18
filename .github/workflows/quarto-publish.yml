@@ -59,5 +59,8 @@ jobs:
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
+          # add path per https://stackoverflow.com/questions/78727508/quarto-and-github-actions-error-the-specified-path-is-not-a-website
+          # see also https://github.com/quarto-dev/quarto-actions/issues/113
+          path: index.qmd
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
