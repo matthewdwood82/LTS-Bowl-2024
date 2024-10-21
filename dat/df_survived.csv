@@ -1,52 +1,204 @@
 Survival Week,League,Team,Owner,Score,Cumulative Score
-3,L2 The Neverending Tilt Montage,jetsgnome22,jetsgnome22,42.79,358.85
-3,L3 The Only Legitimate LTS Bowl League,Admiral Snackbar,Dandelo19,20.3,430.37
-3,L1 Mo Alie-Cox Cup Memorial League,Digestible Seeds,wilkel39,20.3,384.14
-3,L4 Sack Based 4,DiegoFLopez,DiegoFLopez,20.3,376.31
-3,L5 2024 TES Memorial Bidet Bowel,TheDude,thebigwoyciehouski,20.3,308.57
-3,L1 Mo Alie-Cox Cup Memorial League,C.D. Odor Eaters,skiballs68,14.3,394.08
-3,L4 Sack Based 4,jonsey456,jonsey456,14.3,330.96000000000004
-3,L5 2024 TES Memorial Bidet Bowel,Weinerlicious,CommieEsq,14.3,330.5
-3,L4 Sack Based 4,2.5 Seltzers,kipahisbush,1.8,430.75
-3,L3 The Only Legitimate LTS Bowl League,kfisch55,kfisch55,1.8,391.56
-3,L1 Mo Alie-Cox Cup Memorial League,Oatmeal Boy,stephensear,1.8,370.99
-3,L5 2024 TES Memorial Bidet Bowel,My mom's basement ,arthurdantas,1.8,362.77
-3,L2 The Neverending Tilt Montage,Horsey Sauce,FeelingDangerouz,1.8,332.36
-3,L3 The Only Legitimate LTS Bowl League,The Woke FAAB,reginaldo,0,427.21000000000004
-3,L5 2024 TES Memorial Bidet Bowel,Bad Faith,ytrom,0,425.93
-3,L2 The Neverending Tilt Montage,The Huge Mistaeks,RipSlabcheek,0,421.56
-3,L2 The Neverending Tilt Montage,Denny Farter,DrWraith84,0,403.21
-3,L2 The Neverending Tilt Montage,Hero Arby’s ,rehsif,0,387.68
-3,L5 2024 TES Memorial Bidet Bowel,Perpetual Tilt Montage,SOTBD,0,385.13
-3,L3 The Only Legitimate LTS Bowl League,Illegal Formation,_casey88,0,376.6
-3,L1 Mo Alie-Cox Cup Memorial League,Illegitimate Time Zone,NotInMyLeagues,0,371.25
-3,L1 Mo Alie-Cox Cup Memorial League,danvers,danvers,0,369.69000000000005
-3,L4 Sack Based 4,outshine13,outshine13,0,369.57
-3,L5 2024 TES Memorial Bidet Bowel,I Lick Gibbons,sadmalander,0,367.69
-3,L3 The Only Legitimate LTS Bowl League,TurdFergusonFF,TurdFergusonFF,0,362.73
-3,L4 Sack Based 4,O'Shaughnessy's Pub,OhShagHennessy,0,357.03999999999996
-3,L1 Mo Alie-Cox Cup Memorial League,East Coast Brads™️,banditfootball,0,354.59000000000003
-3,L1 Mo Alie-Cox Cup Memorial League,Geriatric All Stars,jbieligk,0,348.85
-3,L5 2024 TES Memorial Bidet Bowel,The Glorious Process,armandoguzman,0,346.64
-3,L5 2024 TES Memorial Bidet Bowel,Taysom’s Sobbing Tailor,cptbeefalo,0,346.6
-3,L4 Sack Based 4,The Poop Monsters [K.C.],karmannkc,0,344.86
-3,L1 Mo Alie-Cox Cup Memorial League,Big  Mad 😡 ,ecsirkin,0,339.89
-3,L1 Mo Alie-Cox Cup Memorial League,ctjoumas,ctjoumas,0,336.90999999999997
-3,L2 The Neverending Tilt Montage,Gluten Soy Dairy Free,apulianas,0,332.57
-3,L4 Sack Based 4,Closet Poopers,coots1185,0,331.5
-3,L5 2024 TES Memorial Bidet Bowel,Sorry to the kids,JHizzy90,0,329.87
-3,L3 The Only Legitimate LTS Bowl League,fantasyscott,fantasyscott,0,326.74
-3,L4 Sack Based 4,Poop on the Cob,Joker1b,0,325.89
-3,L3 The Only Legitimate LTS Bowl League,johnnysmomskid,johnnysmomskid,0,324.78999999999996
-3,L3 The Only Legitimate LTS Bowl League,The Enemy Speaks Kindly,Deredactyl,0,324.77
-3,L2 The Neverending Tilt Montage,Lot 48 Task Force,Kendradhl,0,323.94
-3,L2 The Neverending Tilt Montage,The Penultimate Warrior,mpmazur39,0,320
-3,L4 Sack Based 4,The Lib Owners,nak97,0,318.62
-3,L1 Mo Alie-Cox Cup Memorial League,DavisDayCare,DavisDayCare,0,317.87
-3,L4 Sack Based 4,Foxy stoats,alexewart,0,316.91999999999996
-3,L5 2024 TES Memorial Bidet Bowel,Hock Tua 🐬,austinhunt94,0,316.56
-3,L2 The Neverending Tilt Montage,Sexy Skeletons,aspires,0,310.78999999999996
-3,L2 The Neverending Tilt Montage,sugarfreemocha,sugarfreemocha,0,295.5
+7,L5 2024 TES Memorial Bidet Bowel,TheDude,thebigwoyciehouski,158.26,1165.72
+7,L2 The Neverending Tilt Montage,Hero Arby’s ,rehsif,142.27,1353.46
+7,L1 Mo Alie-Cox Cup Memorial League,ctjoumas,ctjoumas,132.04,1294.03
+7,L3 The Only Legitimate LTS Bowl League,Illegal Formation,_casey88,129.23,1313.33
+7,L3 The Only Legitimate LTS Bowl League,SycamoreFlynns,SycamoreFlynns,123.14,1061.62
+7,L5 2024 TES Memorial Bidet Bowel,I Lick Gibbons,sadmalander,121.51,1172.45
+7,L4 Sack Based 4,Closet Poopers,coots1185,118.12,1205.97
+7,L5 2024 TES Memorial Bidet Bowel,Weinerlicious,CommieEsq,115.85,1171.53
+7,L2 The Neverending Tilt Montage,jetsgnome22,jetsgnome22,115.35,1089.51
+7,L3 The Only Legitimate LTS Bowl League,fantasyscott,fantasyscott,113.27,1128.41
+7,L4 Sack Based 4,Poop on the Cob,Joker1b,111.98,1227.18
+7,L3 The Only Legitimate LTS Bowl League,The Enemy Speaks Kindly,Deredactyl,108.91,1073.22
+7,L5 2024 TES Memorial Bidet Bowel,Bad Faith,ytrom,103,1346.32
+7,L2 The Neverending Tilt Montage,Gluten Soy Dairy Free,apulianas,99.2,1144.51
+7,L4 Sack Based 4,Foxy stoats,alexewart,97.55,1098.3899999999999
+7,L4 Sack Based 4,jonsey456,jonsey456,96.4,1261.08
+7,L1 Mo Alie-Cox Cup Memorial League,danvers,danvers,95.31,1173.3600000000001
+7,L2 The Neverending Tilt Montage,Sexy Skeletons,aspires,95.12,1090.16
+7,L3 The Only Legitimate LTS Bowl League,Admiral Snackbar,Dandelo19,90.85,1365.58
+7,L1 Mo Alie-Cox Cup Memorial League,C.D. Odor Eaters,skiballs68,86.57,1244.21
+7,L1 Mo Alie-Cox Cup Memorial League,Big  Mad 😡 ,ecsirkin,84.35,1263.38
+7,L4 Sack Based 4,2.5 Seltzers,kipahisbush,84.05,1232.94
+7,L4 Sack Based 4,On Stroud 9,Klabbertrap,83.14,1109.68
+7,L5 2024 TES Memorial Bidet Bowel,My mom's basement ,arthurdantas,76.46,1121.24
+7,L5 2024 TES Memorial Bidet Bowel,Sorry to the Kids,FoolofaTook13,73.97,1079.3
+7,L2 The Neverending Tilt Montage,sugarfreemocha,sugarfreemocha,72.2,1121.29
+7,L2 The Neverending Tilt Montage,Horsey Sauce,FeelingDangerouz,71.09,1225.46
+7,L3 The Only Legitimate LTS Bowl League,The Woke FAAB,reginaldo,69.69,1307.52
+7,L5 2024 TES Memorial Bidet Bowel,Perpetual Tilt Montage,SOTBD,56.7,1185.61
+7,L1 Mo Alie-Cox Cup Memorial League,Illegitimate Time Zone,NotInMyLeagues,55.68,1109
+7,L5 2024 TES Memorial Bidet Bowel,Corny Team Name,JHizzy90,46.05,1132.66
+7,L4 Sack Based 4,The Lib Owners,nak97,44.1,1124.1000000000001
+6,L5 2024 TES Memorial Bidet Bowel,Bad Faith,ytrom,250.12,1243.32
+6,L4 Sack Based 4,jonsey456,jonsey456,239.92,1164.68
+6,L4 Sack Based 4,Poop on the Cob,Joker1b,224.13,1115.2
+6,L3 The Only Legitimate LTS Bowl League,Admiral Snackbar,Dandelo19,218.58,1274.73
+6,L1 Mo Alie-Cox Cup Memorial League,ctjoumas,ctjoumas,211.42,1161.99
+6,L2 The Neverending Tilt Montage,Horsey Sauce,FeelingDangerouz,204.01,1154.37
+6,L1 Mo Alie-Cox Cup Memorial League,C.D. Odor Eaters,skiballs68,199.99,1157.64
+6,L3 The Only Legitimate LTS Bowl League,TurdFergusonFF,TurdFergusonFF,199.64,1137.66
+6,L3 The Only Legitimate LTS Bowl League,Illegal Formation,_casey88,197.68,1184.1
+6,L1 Mo Alie-Cox Cup Memorial League,danvers,danvers,191.15,1078.05
+6,L4 Sack Based 4,The Lib Owners,nak97,190.52,1080
+6,L1 Mo Alie-Cox Cup Memorial League,East Coast Brads™️,banditfootball,189.28,1153.98
+6,L1 Mo Alie-Cox Cup Memorial League,Big  Mad 😡 ,ecsirkin,184.94,1179.03
+6,L5 2024 TES Memorial Bidet Bowel,Perpetual Tilt Montage,SOTBD,182.58,1128.91
+6,L3 The Only Legitimate LTS Bowl League,fantasyscott,fantasyscott,182.46,1015.14
+6,L4 Sack Based 4,Foxy stoats,alexewart,177.72,1000.8399999999999
+6,L5 2024 TES Memorial Bidet Bowel,Corny Team Name,JHizzy90,176.69,1086.61
+6,L2 The Neverending Tilt Montage,Hero Arby’s ,rehsif,176.16,1211.19
+6,L2 The Neverending Tilt Montage,Gluten Soy Dairy Free,apulianas,173.31,1045.31
+6,L4 Sack Based 4,On Stroud 9,Klabbertrap,172.7,1026.54
+6,L3 The Only Legitimate LTS Bowl League,SycamoreFlynns,SycamoreFlynns,171.17,938.48
+6,L1 Mo Alie-Cox Cup Memorial League,Illegitimate Time Zone,NotInMyLeagues,170.73,1053.32
+6,L2 The Neverending Tilt Montage,Lot 48 Task Force,Kendradhl,170.24,1034.6399999999999
+6,L2 The Neverending Tilt Montage,The Huge Mistaeks,RipSlabcheek,170.18,1081.29
+6,L5 2024 TES Memorial Bidet Bowel,TheDude,thebigwoyciehouski,169.96,1007.46
+6,L4 Sack Based 4,Closet Poopers,coots1185,168.98,1087.85
+6,L5 2024 TES Memorial Bidet Bowel,Weinerlicious,CommieEsq,167.4,1055.68
+6,L3 The Only Legitimate LTS Bowl League,The Woke FAAB,reginaldo,167.08,1237.83
+6,L2 The Neverending Tilt Montage,Sexy Skeletons,aspires,163.28,995.04
+6,L5 2024 TES Memorial Bidet Bowel,I Lick Gibbons,sadmalander,161.79,1050.94
+6,L4 Sack Based 4,2.5 Seltzers,kipahisbush,160.49,1148.89
+6,L5 2024 TES Memorial Bidet Bowel,Sorry to the Kids,FoolofaTook13,154.14,1005.3299999999999
+6,L2 The Neverending Tilt Montage,sugarfreemocha,sugarfreemocha,153.87,1049.09
+6,L3 The Only Legitimate LTS Bowl League,The Enemy Speaks Kindly,Deredactyl,149.5,964.31
+6,L2 The Neverending Tilt Montage,jetsgnome22,jetsgnome22,148.66,974.16
+6,L5 2024 TES Memorial Bidet Bowel,My mom's basement ,arthurdantas,144.39,1044.78
+5,L2 The Neverending Tilt Montage,Hero Arby’s ,rehsif,243.7,1035.03
+5,L1 Mo Alie-Cox Cup Memorial League,Big  Mad 😡 ,ecsirkin,241.19,994.09
+5,L4 Sack Based 4,jonsey456,jonsey456,234.22,924.76
+5,L4 Sack Based 4,2.5 Seltzers,kipahisbush,220.26,988.4
+5,L3 The Only Legitimate LTS Bowl League,Admiral Snackbar,Dandelo19,220.12,1056.15
+5,L4 Sack Based 4,Poop on the Cob,Joker1b,218.88,891.0699999999999
+5,L2 The Neverending Tilt Montage,Horsey Sauce,FeelingDangerouz,218.78,950.36
+5,L3 The Only Legitimate LTS Bowl League,Illegal Formation,_casey88,213.99,986.4200000000001
+5,L5 2024 TES Memorial Bidet Bowel,Weinerlicious,CommieEsq,212.77,888.28
+5,L1 Mo Alie-Cox Cup Memorial League,C.D. Odor Eaters,skiballs68,209.1,957.65
+5,L2 The Neverending Tilt Montage,Lot 48 Task Force,Kendradhl,207.98,864.4
+5,L1 Mo Alie-Cox Cup Memorial League,DavisDayCare,DavisDayCare,201.33,886.52
+5,L5 2024 TES Memorial Bidet Bowel,Corny Team Name,JHizzy90,201.18,909.92
+5,L3 The Only Legitimate LTS Bowl League,The Woke FAAB,reginaldo,197.8,1070.75
+5,L1 Mo Alie-Cox Cup Memorial League,danvers,danvers,193.24,886.9000000000001
+5,L5 2024 TES Memorial Bidet Bowel,My mom's basement ,arthurdantas,191.26,900.39
+5,L4 Sack Based 4,The Poop Monsters [K.C.],karmannkc,191.23,961.6
+5,L4 Sack Based 4,On Stroud 9,Klabbertrap,188.37,853.84
+5,L2 The Neverending Tilt Montage,Gluten Soy Dairy Free,apulianas,187.69,872
+5,L5 2024 TES Memorial Bidet Bowel,Taysom’s Sobbing Tailor,cptbeefalo,187.4,909.45
+5,L3 The Only Legitimate LTS Bowl League,kfisch55,kfisch55,183.09,910.74
+5,L5 2024 TES Memorial Bidet Bowel,TheDude,thebigwoyciehouski,183.07,837.5
+5,L1 Mo Alie-Cox Cup Memorial League,East Coast Brads™️,banditfootball,179.88,964.7
+5,L5 2024 TES Memorial Bidet Bowel,Perpetual Tilt Montage,SOTBD,179.76,946.3299999999999
+5,L3 The Only Legitimate LTS Bowl League,TurdFergusonFF,TurdFergusonFF,178.3,938.02
+5,L5 2024 TES Memorial Bidet Bowel,Bad Faith,ytrom,177.87,993.2
+5,L1 Mo Alie-Cox Cup Memorial League,ctjoumas,ctjoumas,177.73,950.5699999999999
+5,L4 Sack Based 4,The Lib Owners,nak97,175.51,889.48
+5,L3 The Only Legitimate LTS Bowl League,The Enemy Speaks Kindly,Deredactyl,175.29,814.81
+5,L2 The Neverending Tilt Montage,sugarfreemocha,sugarfreemocha,169.87,895.22
+5,L1 Mo Alie-Cox Cup Memorial League,Illegitimate Time Zone,NotInMyLeagues,166.49,882.59
+5,L5 2024 TES Memorial Bidet Bowel,I Lick Gibbons,sadmalander,166.39,889.15
+5,L2 The Neverending Tilt Montage,Sexy Skeletons,aspires,166.07,831.76
+5,L3 The Only Legitimate LTS Bowl League,SycamoreFlynns,SycamoreFlynns,163.84,767.31
+5,L4 Sack Based 4,Closet Poopers,coots1185,163.4,918.87
+5,L5 2024 TES Memorial Bidet Bowel,Sorry to the Kids,FoolofaTook13,162.39,851.19
+5,L3 The Only Legitimate LTS Bowl League,fantasyscott,fantasyscott,159.94,832.6800000000001
+5,L2 The Neverending Tilt Montage,jetsgnome22,jetsgnome22,151.61,825.5
+5,L2 The Neverending Tilt Montage,The Huge Mistaeks,RipSlabcheek,149.06,911.11
+5,L4 Sack Based 4,Foxy stoats,alexewart,148.85,823.12
+4,L3 The Only Legitimate LTS Bowl League,The Woke FAAB,reginaldo,241.28,872.95
+4,L4 Sack Based 4,The Lib Owners,nak97,220.86,713.97
+4,L3 The Only Legitimate LTS Bowl League,Admiral Snackbar,Dandelo19,219.93,836.03
+4,L1 Mo Alie-Cox Cup Memorial League,Digestible Seeds,wilkel39,218.32,780.48
+4,L1 Mo Alie-Cox Cup Memorial League,East Coast Brads™️,banditfootball,217.7,784.8199999999999
+4,L4 Sack Based 4,The Poop Monsters [K.C.],karmannkc,214.43,770.37
+4,L3 The Only Legitimate LTS Bowl League,Illegal Formation,_casey88,214.14,772.4300000000001
+4,L5 2024 TES Memorial Bidet Bowel,Bad Faith,ytrom,211.58,815.33
+4,L5 2024 TES Memorial Bidet Bowel,Perpetual Tilt Montage,SOTBD,209.27,766.5699999999999
+4,L5 2024 TES Memorial Bidet Bowel,TheDude,thebigwoyciehouski,199.8,654.4300000000001
+4,L4 Sack Based 4,Closet Poopers,coots1185,198.06,755.47
+4,L1 Mo Alie-Cox Cup Memorial League,ctjoumas,ctjoumas,197.46,772.84
+4,L2 The Neverending Tilt Montage,sugarfreemocha,sugarfreemocha,193.53,725.35
+4,L1 Mo Alie-Cox Cup Memorial League,Big  Mad 😡 ,ecsirkin,193.09,752.9
+4,L2 The Neverending Tilt Montage,Denny Farter,DrWraith84,190.78,765.98
+4,L2 The Neverending Tilt Montage,Hero Arby’s ,rehsif,189.86,791.33
+4,L2 The Neverending Tilt Montage,Gluten Soy Dairy Free,apulianas,189.64,684.31
+4,L3 The Only Legitimate LTS Bowl League,kfisch55,kfisch55,188.73,727.65
+4,L2 The Neverending Tilt Montage,Horsey Sauce,FeelingDangerouz,188.71,731.58
+4,L5 2024 TES Memorial Bidet Bowel,Corny Team Name,JHizzy90,187.89,708.74
+4,L4 Sack Based 4,On Stroud 9,Klabbertrap,185.98,665.47
+4,L1 Mo Alie-Cox Cup Memorial League,DavisDayCare,DavisDayCare,184.4,685.19
+4,L1 Mo Alie-Cox Cup Memorial League,C.D. Odor Eaters,skiballs68,182.36,748.55
+4,L4 Sack Based 4,Foxy stoats,alexewart,180.6,674.27
+4,L5 2024 TES Memorial Bidet Bowel,Sorry to the Kids,FoolofaTook13,180.43,688.8
+4,L2 The Neverending Tilt Montage,The Huge Mistaeks,RipSlabcheek,180.31,762.05
+4,L2 The Neverending Tilt Montage,Sexy Skeletons,aspires,176.87,665.69
+4,L2 The Neverending Tilt Montage,jetsgnome22,jetsgnome22,174.7,673.89
+4,L1 Mo Alie-Cox Cup Memorial League,danvers,danvers,173.45,693.6600000000001
+4,L2 The Neverending Tilt Montage,Lot 48 Task Force,Kendradhl,171.64,656.42
+4,L4 Sack Based 4,Poop on the Cob,Joker1b,171.6,672.19
+4,L4 Sack Based 4,2.5 Seltzers,kipahisbush,170.76,768.14
+4,L5 2024 TES Memorial Bidet Bowel,I Lick Gibbons,sadmalander,170.35,722.76
+4,L3 The Only Legitimate LTS Bowl League,TurdFergusonFF,TurdFergusonFF,167.83,759.72
+4,L5 2024 TES Memorial Bidet Bowel,Taysom’s Sobbing Tailor,cptbeefalo,167.38,722.05
+4,L4 Sack Based 4,O'Shaughnessy's Pub,OhShagHennessy,167.12,704.49
+4,L4 Sack Based 4,outshine13,outshine13,165.48,697.3
+4,L1 Mo Alie-Cox Cup Memorial League,Illegitimate Time Zone,NotInMyLeagues,165.36,716.1
+4,L3 The Only Legitimate LTS Bowl League,SycamoreFlynns,SycamoreFlynns,164.97,603.47
+4,L3 The Only Legitimate LTS Bowl League,fantasyscott,fantasyscott,164.95,672.74
+4,L5 2024 TES Memorial Bidet Bowel,Weinerlicious,CommieEsq,164.51,675.51
+4,L4 Sack Based 4,jonsey456,jonsey456,161.74,690.54
+4,L5 2024 TES Memorial Bidet Bowel,My mom's basement ,arthurdantas,158.24,709.13
+4,L3 The Only Legitimate LTS Bowl League,The Enemy Speaks Kindly,Deredactyl,153.32,639.52
+3,L1 Mo Alie-Cox Cup Memorial League,ctjoumas,ctjoumas,238.47,575.38
+3,L2 The Neverending Tilt Montage,sugarfreemocha,sugarfreemocha,236.32,531.8199999999999
+3,L5 2024 TES Memorial Bidet Bowel,Hock Tua 🐬,austinhunt94,229.33,545.89
+3,L3 The Only Legitimate LTS Bowl League,TurdFergusonFF,TurdFergusonFF,229.16,591.89
+3,L4 Sack Based 4,Closet Poopers,coots1185,225.91,557.41
+3,L5 2024 TES Memorial Bidet Bowel,Sorry to the Kids,FoolofaTook13,221.57,508.37
+3,L1 Mo Alie-Cox Cup Memorial League,Big  Mad 😡 ,ecsirkin,219.92,559.81
+3,L2 The Neverending Tilt Montage,Hero Arby’s ,rehsif,213.79,601.47
+3,L1 Mo Alie-Cox Cup Memorial League,East Coast Brads™️,banditfootball,212.53,567.12
+3,L2 The Neverending Tilt Montage,Horsey Sauce,FeelingDangerouz,212.31,542.87
+3,L4 Sack Based 4,jonsey456,jonsey456,212.14,528.8
+3,L1 Mo Alie-Cox Cup Memorial League,Geriatric All Stars,jbieligk,211.48,560.3299999999999
+3,L4 Sack Based 4,The Poop Monsters [K.C.],karmannkc,211.08,555.94
+3,L5 2024 TES Memorial Bidet Bowel,Taysom’s Sobbing Tailor,cptbeefalo,208.07,554.67
+3,L3 The Only Legitimate LTS Bowl League,Admiral Snackbar,Dandelo19,206.03,616.1
+3,L3 The Only Legitimate LTS Bowl League,The Woke FAAB,reginaldo,204.46,631.6700000000001
+3,L1 Mo Alie-Cox Cup Memorial League,Digestible Seeds,wilkel39,198.32,562.16
+3,L5 2024 TES Memorial Bidet Bowel,Weinerlicious,CommieEsq,194.8,511
+3,L5 2024 TES Memorial Bidet Bowel,Corny Team Name,JHizzy90,190.98,520.85
+3,L4 Sack Based 4,On Stroud 9,Klabbertrap,190.7,479.49
+3,L3 The Only Legitimate LTS Bowl League,johnnysmomskid,johnnysmomskid,190.45,515.24
+3,L5 2024 TES Memorial Bidet Bowel,My mom's basement ,arthurdantas,189.92,550.89
+3,L1 Mo Alie-Cox Cup Memorial League,C.D. Odor Eaters,skiballs68,186.41,566.19
+3,L5 2024 TES Memorial Bidet Bowel,I Lick Gibbons,sadmalander,184.72,552.41
+3,L2 The Neverending Tilt Montage,jetsgnome22,jetsgnome22,183.13,499.19
+3,L1 Mo Alie-Cox Cup Memorial League,DavisDayCare,DavisDayCare,182.92,500.78999999999996
+3,L3 The Only Legitimate LTS Bowl League,Illegal Formation,_casey88,181.69,558.29
+3,L3 The Only Legitimate LTS Bowl League,fantasyscott,fantasyscott,181.05,507.79
+3,L4 Sack Based 4,O'Shaughnessy's Pub,OhShagHennessy,180.33,537.37
+3,L1 Mo Alie-Cox Cup Memorial League,Illegitimate Time Zone,NotInMyLeagues,179.49,550.74
+3,L2 The Neverending Tilt Montage,Sexy Skeletons,aspires,178.03,488.82
+3,L5 2024 TES Memorial Bidet Bowel,Bad Faith,ytrom,177.82,603.75
+3,L4 Sack Based 4,Foxy stoats,alexewart,176.75,493.66999999999996
+3,L4 Sack Based 4,Poop on the Cob,Joker1b,174.7,500.59000000000003
+3,L4 Sack Based 4,The Lib Owners,nak97,174.49,493.11
+3,L5 2024 TES Memorial Bidet Bowel,Perpetual Tilt Montage,SOTBD,172.17,557.3
+3,L2 The Neverending Tilt Montage,Denny Farter,DrWraith84,171.99,575.2
+3,L4 Sack Based 4,2.5 Seltzers,kipahisbush,168.43,597.38
+3,L5 2024 TES Memorial Bidet Bowel,TheDude,thebigwoyciehouski,166.36,454.63
+3,L4 Sack Based 4,outshine13,outshine13,162.25,531.8199999999999
+3,L2 The Neverending Tilt Montage,Gluten Soy Dairy Free,apulianas,162.1,494.66999999999996
+3,L3 The Only Legitimate LTS Bowl League,The Enemy Speaks Kindly,Deredactyl,161.43,486.20000000000005
+3,L3 The Only Legitimate LTS Bowl League,SycamoreFlynns,SycamoreFlynns,160.92,438.5
+3,L2 The Neverending Tilt Montage,Lot 48 Task Force,Kendradhl,160.84,484.78
+3,L2 The Neverending Tilt Montage,The Huge Mistaeks,RipSlabcheek,160.18,581.74
+3,L2 The Neverending Tilt Montage,The Penultimate Warrior,mpmazur39,155.57,475.57
+3,L1 Mo Alie-Cox Cup Memorial League,danvers,danvers,150.52,520.21
+3,L3 The Only Legitimate LTS Bowl League,kfisch55,kfisch55,149.16,538.92
 2,L4 Sack Based 4,2.5 Seltzers,kipahisbush,257.67,428.95000000000005
 2,L3 The Only Legitimate LTS Bowl League,The Woke FAAB,reginaldo,230.93,427.21000000000004
 2,L5 2024 TES Memorial Bidet Bowel,Bad Faith,ytrom,227.96,425.93
@@ -90,7 +242,7 @@ Survival Week,League,Team,Owner,Score,Cumulative Score
 2,L4 Sack Based 4,Closet Poopers,coots1185,148.14,331.5
 2,L5 2024 TES Memorial Bidet Bowel,TheDude,thebigwoyciehouski,142.07,288.27
 2,L5 2024 TES Memorial Bidet Bowel,Taysom’s Sobbing Tailor,cptbeefalo,141.51,346.6
-2,L5 2024 TES Memorial Bidet Bowel,Sorry to the kids,JHizzy90,140,329.87
+2,L5 2024 TES Memorial Bidet Bowel,Corny Team Name,JHizzy90,140,329.87
 2,L5 2024 TES Memorial Bidet Bowel,Hock Tua 🐬,austinhunt94,139.6,316.56
 2,L3 The Only Legitimate LTS Bowl League,SycamoreFlynns,SycamoreFlynns,138.01,277.58
 2,L4 Sack Based 4,On Stroud 9,Klabbertrap,136.77,288.79
@@ -114,7 +266,7 @@ Survival Week,League,Team,Owner,Score,Cumulative Score
 1,L3 The Only Legitimate LTS Bowl League,TurdFergusonFF,TurdFergusonFF,193.03,193.03
 1,L4 Sack Based 4,O'Shaughnessy's Pub,OhShagHennessy,190.94,190.94
 1,L2 The Neverending Tilt Montage,Hero Arby’s ,rehsif,190.91,190.91
-1,L5 2024 TES Memorial Bidet Bowel,Sorry to the kids,JHizzy90,189.87,189.87
+1,L5 2024 TES Memorial Bidet Bowel,Corny Team Name,JHizzy90,189.87,189.87
 1,L1 Mo Alie-Cox Cup Memorial League,DavisDayCare,DavisDayCare,189.8,189.8
 1,L4 Sack Based 4,Closet Poopers,coots1185,183.36,183.36
 1,L2 The Neverending Tilt Montage,Sexy Skeletons,aspires,181.19,181.19
