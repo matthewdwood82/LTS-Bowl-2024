@@ -51,7 +51,7 @@ jobs:
       #     commit_options: '--no-verify --signoff'
       #     file_pattern: '*.csv dat/*.csv *.txt dat/*.txt'
       
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v2
       - name: Commit score csv crudely
         run: |
           git config --local user.email "actions@github.com"
