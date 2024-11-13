@@ -31,8 +31,8 @@ jobs:
           
       # - name: Install system dependencies
       #   uses: r-lib/actions/setup-r-dependencies@v2
-      - name: Install system dependencies
-        run: sudo apt install libcurl4-openssl-dev
+      # - name: Install system dependencies
+      #   run: sudo apt install libcurl4-openssl-dev
         
       - name: Load Dependencies
         uses: r-lib/actions/setup-renv@v2
