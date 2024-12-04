@@ -222,7 +222,7 @@ df_playoffs <- purrr::map(v_query, ~ffscrapr::sleeper_getendpoint(.x)) %>%
 # survived teams
 df_week_list <- df_scores %>%
   # hardcode until we resolve the playoff score reporting
-  dplyr::filter(week < 14) %>% 
+  dplyr::filter(week < 14) %>%
   # dplyr::filter(week <= update_week) %>%
   dplyr::arrange(week) %>%
   dplyr::group_by(league, franchise_id) %>%
@@ -241,7 +241,7 @@ v_max_week <- length(df_week_list)
 # # get manual survival table
 # df_survived_manual <- readr::read_csv("dat/df_survived_manual.csv")
 
-# get survival table
+# get survival table for wk 1-13
 df_survived <- df_week_list %>%
   purrr::accumulate(\(x, d) {
     d %>%
@@ -253,8 +253,10 @@ df_survived <- df_week_list %>%
         n = -4,
         with_ties = FALSE
       )
-  }, .init = df_week_list$`1`) %>%
+  }, .init = df_week_list$`1`) %>% 
   tail(-1)
+
+# get survival table for wk 
 
 
 # write df_survived

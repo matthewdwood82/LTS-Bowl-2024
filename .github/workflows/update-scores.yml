@@ -29,10 +29,10 @@ jobs:
         with:
           r-version: '4.4.0' # The R version to download (if necessary) and use.
           
-      # - name: Install system dependencies
-      #   uses: r-lib/actions/setup-r-dependencies@v2
-      # - name: Install system dependencies
-      #   run: sudo apt install libcurl4-openssl-dev
+      - name: Install system dependencies
+        uses: r-lib/actions/setup-r-dependencies@v2
+      - name: Install system dependencies
+        run: sudo apt install libcurl4-openssl-dev
         
       - name: Load Dependencies
         uses: r-lib/actions/setup-renv@v2
