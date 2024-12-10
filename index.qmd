@@ -18,7 +18,6 @@ execute:
   warning: false
 ---
 
-
 ```{r dependencies}
 
 # data ingest
@@ -40,12 +39,26 @@ library(DT)
 source("R/get_conn.R")
 ```
 
-::: {.card}
-
+::: card
 **Updated: `r toupper(format(lubridate::with_tz(Sys.time(), tzone="America/New_York"), "%a %Y-%m-%d %H:%M:%S %Z"))`**
 
 **NOTE: Results are final for Week `r as.numeric(readr::read_lines("dat/update_week.txt"))`.**
+
+**Survivor pool results are pending for Week 14 and will be updated tonight (10 DEC) or .**
+
+**Bowl winners coming soon!**
+
+| League                                 | Winner Team          | Winner Owner     | Opponent Team            | Opponent Owner | Winner Score | LTS Bowl Finish |
+|-----------|----------|----------|----------|----------|----------|----------|
+| L1 League Name                         | Winner Team Name         | winner_owner | Opponent Team Name           | opponent_owner | winner_score       | winner_place             |
+| L2 League Name                    | Winner Team Name    | winner_owner        | Opponent Team Name                | opponent_owner      | winner_score       | winner_place             |
+| L3 League Name | Winner Team Name          | winner_owner        | Opponent Team Name                    | opponent_owner        | winner_score       | winner_place             |
+| L4 League Name                 | Winner Team Name | winner_owner          | Opponent Team Name         | opponent_owner   | winner_score       | winner_place             |
+| L5 League Name                   | Winner Team Name          | winner_owner        | Opponent Team Name | opponent_owner | winner_score       | winner_place             |
+
+: League Winners.
 :::
+
 ## Intro
 
 Welcome to the scoring and transaction site for the Living the Stream Bowl 2024!
