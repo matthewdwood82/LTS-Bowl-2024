@@ -239,7 +239,7 @@ v_max_week <- length(df_week_list)
 
 
 # # get manual survival table
-# df_survived_manual <- readr::read_csv("dat/df_survived_manual.csv")
+df_survived_manual <- readr::read_csv("dat/df_survived_manual.csv")
 
 # get survival table for wk 1-13
 df_survived <- df_week_list %>%
@@ -270,13 +270,13 @@ df_survived %>%
     Score = franchise_score,
     `Cumulative Score` = cum_franchise_score
   ) %>%
-  # dplyr::bind_rows(df_survived_manual) %>% 
+  dplyr::bind_rows(df_survived_manual) %>%
   dplyr::arrange(desc(`Survival Week`), desc(Score)) %>%
   readr::write_csv(., "dat/df_survived.csv")
 
 
 # # get manual eliminated table
-# df_eliminated_manual <- readr::read_csv("dat/df_eliminated_manual.csv")
+df_eliminated_manual <- readr::read_csv("dat/df_eliminated_manual.csv")
 
 # get eliminated table by anti-joining with survival table
 df_eliminated <-
@@ -293,7 +293,7 @@ df_eliminated <-
     Score = franchise_score,
     `Cumulative Score at Elimination` = cum_franchise_score
   ) %>% 
-  # dplyr::bind_rows(df_eliminated_manual) %>% 
+  dplyr::bind_rows(df_eliminated_manual) %>%
   dplyr::arrange(desc(`Eliminated Week`), desc(Score))
   
 
