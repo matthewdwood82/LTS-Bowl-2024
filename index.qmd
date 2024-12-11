@@ -44,7 +44,7 @@ source("R/get_conn.R")
 
 **NOTE: Results are final for Week `r as.numeric(readr::read_lines("dat/update_week.txt"))`.**
 
-**Survivor pool results are pending for Week 14 and will be updated tonight (10 DEC) or .**
+**Survivor pool results are pending for Week 14 and will be updated hopefully by around kickoff of TNF (12 DEC).**
 
 **Bowl winners coming soon!**
 
