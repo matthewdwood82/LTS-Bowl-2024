@@ -44,14 +44,14 @@ source("R/get_conn.R")
 
 **NOTE: Results are final for Week `r as.numeric(readr::read_lines("dat/update_week.txt"))`.**
 
-**Survivor pool results are pending for Week 14 and will be updated hopefully by around kickoff of TNF (12 DEC).**
+**Survivor pool results are current as of about kickoff of CHI@MIN Week 15. Other matchup and total point values here should not yet be trusted.**
 
 **Bowl winners coming soon!**
 
 | League                                 | Winner Team          | Winner Owner     | Opponent Team            | Opponent Owner | Winner Score | LTS Bowl Finish |
 |-----------|----------|----------|----------|----------|----------|----------|
-| L1 League Name                         | Winner Team Name         | winner_owner | Opponent Team Name           | opponent_owner | winner_score       | winner_place             |
-| L2 League Name                    | Winner Team Name    | winner_owner        | Opponent Team Name                | opponent_owner      | winner_score       | winner_place             |
+| L1 Mo Alie-Cox Cup Memorial League                         | Winner Team Name         | winner_owner | Opponent Team Name           | opponent_owner | winner_score       | winner_place             |
+| L2 The Neverending Tilt Montage                    | Winner Team Name    | winner_owner        | Opponent Team Name                | opponent_owner      | winner_score       | winner_place             |
 | L3 League Name | Winner Team Name          | winner_owner        | Opponent Team Name                    | opponent_owner        | winner_score       | winner_place             |
 | L4 League Name                 | Winner Team Name | winner_owner          | Opponent Team Name         | opponent_owner   | winner_score       | winner_place             |
 | L5 League Name                   | Winner Team Name          | winner_owner        | Opponent Team Name | opponent_owner | winner_score       | winner_place             |
