@@ -44,7 +44,7 @@ source("R/get_conn.R")
 
 **NOTE: Results are final for Week `r as.numeric(readr::read_lines("dat/update_week.txt"))`.**
 
-**Survivor pool results are current as of about kickoff of CHI@MIN Week 15. Other matchup and total point values here should not yet be trusted.**
+**Survivor pool results are current through Week 15.**
 
 **Bowl winners coming soon!**
 
