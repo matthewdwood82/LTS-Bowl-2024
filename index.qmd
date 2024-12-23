@@ -44,7 +44,7 @@ source("R/get_conn.R")
 
 **NOTE: Results are final for Week `r as.numeric(readr::read_lines("dat/update_week.txt"))`.**
 
-**Survivor pool results are current through Week 15.**
+**Survivor pool results are current through SNF Week 16, and will be updated TUE or WED for MNF.**
 
 **Bowl winners coming soon!**
 
@@ -139,7 +139,10 @@ readr::read_csv("dat/df_scores.csv", col_types = "cicdcdcd") %>%
     Opponent = franchise_name_opponent,
     `Opp. Score` = opponent_score,
     Result = result,
-    Difference = diff_score
+    Difference = diff_score,
+    `Diff Rank` = diff_rank,
+    `Total Score` = total_score,
+    `Total Rank` = total_rank
   ) %>% 
   DT::datatable(
     .,

@@ -32,7 +32,7 @@ this_week <- difftime(lubridate::now(), lubridate::ymd("2024-09-04"), units = "w
 #   units = "weeks"
 # ) %>%
 #   floor() %>%  as.integer()
-update_week <- 15
+update_week <- 16
 readr::write_lines(update_week, "dat/update_week.txt")
 
 # get all scores for each week
@@ -42,7 +42,10 @@ df_scores <- purrr::map(lts_conn, ~ ff_schedule(.x)) %>%
   # dplyr::filter(week <= this_week) %>%
   # will only report the completed results week when the new week starts
   dplyr::filter(week <= this_week) %>%
-  dplyr::mutate(diff_score = abs(franchise_score - opponent_score)) %>%
+  dplyr::mutate(diff_score = abs(franchise_score - opponent_score),
+                diff_rank = rank(desc(diff_score), ties.method = "min"),
+                total_score = franchise_score + opponent_score,
+                total_rank = rank(desc(total_score), ties.method = "min")) %>%
   dplyr::left_join(df_franchises[, 1:4], by = c("league", "franchise_id")) %>%
   dplyr::left_join(
     df_franchises[, 1:4],
