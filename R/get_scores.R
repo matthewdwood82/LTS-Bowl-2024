@@ -43,9 +43,9 @@ df_scores <- purrr::map(lts_conn, ~ ff_schedule(.x)) %>%
   # will only report the completed results week when the new week starts
   dplyr::filter(week <= this_week) %>%
   dplyr::mutate(diff_score = abs(franchise_score - opponent_score),
-                diff_rank = rank(desc(diff_score), ties.method = "min"),
+                diff_rank = ceiling(rank(desc(diff_score), ties.method = "min")/2),
                 total_score = franchise_score + opponent_score,
-                total_rank = rank(desc(total_score), ties.method = "min")) %>%
+                total_rank = ceiling(rank(desc(total_score), ties.method = "min")/2)) %>%
   dplyr::left_join(df_franchises[, 1:4], by = c("league", "franchise_id")) %>%
   dplyr::left_join(
     df_franchises[, 1:4],
