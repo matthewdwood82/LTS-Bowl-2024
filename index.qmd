@@ -46,7 +46,7 @@ source("R/get_conn.R")
 
 **Survivor pool results are final for Week 17. Congrats to ctjoumas!**
 
-**Bowl winners coming soon!**
+**Bowl winners below, congrats to K.C. (karmannkc) and The Poop Monsters!**
 
 | League  | Winner Team | Winner Owner  | w17 Opp. Team | w17 Opp. Owner | Winner Score (total=w15+w16+w17) | LTS Bowl Finish |
 |-----------|----------|----------|----------|----------|----------|----------|
