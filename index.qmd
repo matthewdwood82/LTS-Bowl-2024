@@ -44,7 +44,7 @@ source("R/get_conn.R")
 
 **NOTE: Results are final for Week `r as.numeric(readr::read_lines("dat/update_week.txt"))`.**
 
-**Survivor pool results are final for Week 16. Seasons Greetings to all, and good luck to ctjoumas & jonsey456 this week!**
+**Survivor pool results are final for Week 17. Congrats to ctjoumas!**
 
 **Bowl winners coming soon!**
 
