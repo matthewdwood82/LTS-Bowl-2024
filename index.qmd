@@ -51,7 +51,7 @@ source("R/get_conn.R")
 | League  | Winner Team | Winner Owner  | w17 Opp. Team | w17 Opp. Owner | Winner Score (total=w15+w16+w17) | LTS Bowl Finish |
 |-----------|----------|----------|----------|----------|----------|----------|
 | L1 Mo Alie-Cox Cup Memorial League  | Team ctjoumas | ctjoumas | Digestible Seeds | winkel39 | 688.17 = 202.10 + 232.19 + 253.88  | 3rd |
-| L2 The Neverending Tilt Montage | Winner Team Name  | winner_owner  | Opponent Team Name  | opponent_owner  | 632.99 = 173.72 + 219.67 + 239.6  | 5th |
+| L2 The Neverending Tilt Montage | Team rehsif  | rehsif | Horsey Sauce  | FeelingDangerouz  | 632.99 = 173.72 + 219.67 + 239.6  | 5th |
 | L3 The Only Legitimate LTS Bowl League  | Admiral Snackbar  | Dandelo19  | The Woke FAAB  | reginaldo  | 731.88 = 211.24 + 271.33 + 249.31  | 2nd  |
 | L4 Sack Based 4  | The Poop Monsters [K.C.] | karmannkc | Team jonsey456  | jonsey456 | 752.61 = 215.23 + 261.03 + 276.35  | 1st  |
 | L5 TES Memorial Bidet Bowel  | Bad Faith  | ytrom | Corny Team Name | JHizzy90  | 676.84 = 229.44 + 242.4 + 205 | 4th  |
